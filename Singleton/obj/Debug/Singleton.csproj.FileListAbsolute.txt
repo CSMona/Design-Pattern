@@ -1,0 +1,7 @@
+F:\C#_net\A_New Subject\Book\DesignPattern\Singleton\bin\Debug\Singleton.exe.config
+F:\C#_net\A_New Subject\Book\DesignPattern\Singleton\bin\Debug\Singleton.exe
+F:\C#_net\A_New Subject\Book\DesignPattern\Singleton\bin\Debug\Singleton.pdb
+F:\C#_net\A_New Subject\Book\DesignPattern\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+F:\C#_net\A_New Subject\Book\DesignPattern\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+F:\C#_net\A_New Subject\Book\DesignPattern\Singleton\obj\Debug\Singleton.exe
+F:\C#_net\A_New Subject\Book\DesignPattern\Singleton\obj\Debug\Singleton.pdb
