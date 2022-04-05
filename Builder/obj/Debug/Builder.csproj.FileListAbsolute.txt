@@ -1,0 +1,7 @@
+F:\C#_net\A_New Subject\Book\DesignPattern\Builder\bin\Debug\Builder.exe.config
+F:\C#_net\A_New Subject\Book\DesignPattern\Builder\bin\Debug\Builder.exe
+F:\C#_net\A_New Subject\Book\DesignPattern\Builder\bin\Debug\Builder.pdb
+F:\C#_net\A_New Subject\Book\DesignPattern\Builder\obj\Debug\Builder.csproj.AssemblyReference.cache
+F:\C#_net\A_New Subject\Book\DesignPattern\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+F:\C#_net\A_New Subject\Book\DesignPattern\Builder\obj\Debug\Builder.exe
+F:\C#_net\A_New Subject\Book\DesignPattern\Builder\obj\Debug\Builder.pdb
